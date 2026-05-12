@@ -1,4 +1,4 @@
-# 
+# smart Token Sniper for liquidity sniper bot | rug-pull-detection & take-profit is the best liquidity sniper bot, featuring rug-pull-detection and take-profit. Fast, smart, and
 
 
 
